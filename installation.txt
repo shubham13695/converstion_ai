@@ -2,7 +2,5 @@ To install dependencies:
 npm install
 
 To start:
-num start
+npm start
 
-To run Test:
-npm test
