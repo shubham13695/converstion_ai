@@ -1,0 +1,8 @@
+To install dependencies:
+npm install
+
+To start:
+num start
+
+To run Test:
+npm test

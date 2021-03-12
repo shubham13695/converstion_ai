@@ -1,0 +1,19 @@
+{
+  "name": "move_the_cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.ts",
+    "test": "mocha './src/test/*.test.js'"
+  },
+  "author": "Shubham Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
